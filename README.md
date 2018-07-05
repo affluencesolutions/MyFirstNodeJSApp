@@ -7,8 +7,8 @@
 Steps to install this app is given below
 
 ```js
-app.get('/', function (req, res) {
-  	res.render('index');
-});
+git clone git@github.com:affluencesolutions/MyFirstNodeJSApp.git
+npm install
+node server.js
 
 ```
